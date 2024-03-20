@@ -60,8 +60,6 @@ make && ./spider
 - Camera view adjustments
 - Access to key controls and simulation settings via UI buttons
 
-## License
-This project is distributed under the MIT License. See the LICENSE file for more information.
 
 ## Acknowledgements
 - [OpenGL Programming Guide](https://www.glprogramming.com/red/chapter05.html)
